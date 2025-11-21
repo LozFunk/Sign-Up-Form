@@ -234,4 +234,148 @@ label{
     display: none;
 }
 
+/* Add media queries at the end of your stylesheet */
+
+@media (max-width: 1024px) {
+    .padding {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    
+    .form-container {
+        padding-left: 20px;
+    }
+    
+    .form-box h3 {
+        padding-left: 20px;
+    }
+    
+    input {
+        width: 200px;
+    }
+}
+
+@media (max-width: 768px) {
+    section {
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+    }
+    
+    .w33 {
+        width: 100%;
+        height: 300px;
+    }
+    
+    .w66 {
+        width: 100%;
+        animation: slideInUp 700ms cubic-bezier(.16,.84,.44,1) both;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    img {
+        height: 300px;
+    }
+    
+    .odin-logo {
+        width: 60px;
+    }
+    
+    .padding {
+        padding-left: 30px;
+        padding-right: 30px;
+        text-align: center;
+    }
+    
+    .form-container {
+        flex-direction: column;
+        padding-left: 0;
+        align-items: center;
+    }
+    
+    .form-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .button-container {
+        padding-left: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    input {
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    .form-input {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 480px) {
+    section {
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+    }
+    
+    .w66 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .form-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    
+    .form-container {
+        flex-direction: column;
+        padding-left: 0;
+        align-items: center;
+        width: 100%;
+    }
+    
+    .button-container {
+        padding-left: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    
+    .padding {
+        text-align: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+    input {
+        width: 90%;
+        max-width: 280px;
+    }
+    
+    .submit-btn {
+        width: 90%;
+        max-width: 280px;
+    }
+    
+    .form-box h3 {
+        padding-left: 20px;
+        font-size: 1rem;
+    }
+}
+
 
