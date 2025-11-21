@@ -16,7 +16,7 @@ A modern sign-up form built as part of **The Odin Project** curriculum. Features
 ![Sign-Up Form Screenshot](images/screenshot_1.png)
 
 ### Mobile View
-![Mobile Sign-Up Form Screenshot](images/screenshot.png)
+![Mobile Sign-Up Form Screenshot](images/screenshot_2.png)
 
 
 ## Live Demo
