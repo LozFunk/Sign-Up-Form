@@ -2,6 +2,11 @@
 
 A modern sign-up form built as part of **The Odin Project** curriculum. Features a split-panel layout with smooth animations, a styled form, and a purple color scheme.
 
+## Screenshot
+
+![Sign-Up Form Screenshot](images/form.png)
+
+
 ## Features
 
 - **Responsive split layout** — Image panel (left) and form panel (right)
