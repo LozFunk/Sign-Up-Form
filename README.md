@@ -12,11 +12,11 @@ A modern sign-up form built as part of **The Odin Project** curriculum. Features
 
 ## Screenshots
 
-Desktop:
-![Sign-Up Form Screenshot](images/screenshot_1.png)
+<p align="center">
+  <img src="images/screenshot_1.png" width="45%" />
+  <img src="images/screenshot_2.png" width="45%" />
+</p>
 
-Mobile:
-![Mobile Sign-Up Form Screenshot](images/screenshot_2.png)
 
 
 
