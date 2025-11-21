@@ -10,6 +10,10 @@ A modern sign-up form built as part of **The Odin Project** curriculum. Features
 - **Form validation** — Required fields with email and password inputs
 - **Modern UI** — Clean input fields with focus states and hover effects
 
+## Screenshot
+
+![Sign-Up Form Screenshot](images/form.png)
+
 ## Live Demo
 
 View the live site: https://lozfunk.github.io/Sign-Up-Form/
